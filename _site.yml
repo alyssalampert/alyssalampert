@@ -1,5 +1,6 @@
 name: "my-website"
 output_dir: "."
+theme: slate
 navbar:
   title: "Alyssa Lampert"
   left:
