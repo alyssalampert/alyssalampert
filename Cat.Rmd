@@ -1,0 +1,7 @@
+---
+title: "Cat"
+---
+
+```{r precipitation_report}
+knitr::include_graphics("https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Fzeebski&psig=AOvVaw1x4B-Hz4fnXZZIm9PE7nft&ust=1650683799593000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCBk8XapvcCFQAAAAAdAAAAABAJ")
+```

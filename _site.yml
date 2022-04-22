@@ -14,4 +14,7 @@ navbar:
       href: about.html
     - text: "My Work"
       href: alampert.html
+    - text: "Cat"
+      href: cat.html
+      
 
