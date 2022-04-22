@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-More about me.
+Enough about me.
